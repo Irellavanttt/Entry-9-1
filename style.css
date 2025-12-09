@@ -1,0 +1,23 @@
+body {
+	background-image: url(image/Paper2.png);
+}
+
+p {
+	width: 75ch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+
+.headshot {
+	width: 200px;
+	height: 200px;
+}
+
+#container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 10px;
+}
